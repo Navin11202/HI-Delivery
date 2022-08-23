@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #03fbff;
+}
+#navbar {
+  background-color: #00e0c6;
+}
+#download {
+  background-color: #ffffff;
+}
+#about {
+  background-color: #03fbff;
+}
+section {
+  padding-top: 5rem;
+}
+footer {
+  min-height: 200px;
+}
+
